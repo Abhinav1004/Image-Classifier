@@ -6,15 +6,15 @@ In this project, we classify images from the [CIFAR-10](https://www.cs.toronto.e
 ![](images/cifar1.jpg)
 
 ## Software Requirements
-  ```
+
   1.Install [Anaconda](https://www.anaconda.com/download/#linux) 
   
   2.Download or clone this github repository 
   
-  3.Launch jupyter notebok within the file containing [image_classification]() file
+  3.Launch jupyter notebok within the file containing `image_classification.iypynb` file
   
   4.Run the cells to train and execute the model. 
-  ```
+  
 ## Cifar Data Set
   It contains images of the various objects and goal of the model is to identify the objects from this data set
   ![](images/cifar10.png)
