@@ -17,8 +17,8 @@ jupyter notebook dlnd_image_classification.ipynb
 ```
 ## Installation 
 
-1.Install [Anaconda](https://www.anaconda.com/download/#linux) 	+<!-- Images -->
-  	+[image-cifar10]: https://msdnshared.blob.core.windows.net/media/2016/10/102816_2258_ApplyingClo2.png "Cifar10 Examples"
+1.Install [Anaconda](https://www.anaconda.com/download/#linux)
+
 2.Download or clone this github repository 	
   	
 3.Launch jupyter notebok within the file containing `image_classification.iypynb` file	
